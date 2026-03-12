@@ -1,4 +1,4 @@
-name: flutter_riverpod
+name: kyc_flutter_riverpod
 description: >
   A reactive caching and data-binding framework.
   Riverpod makes working with asynchronous code a breeze.

@@ -1,4 +1,4 @@
-name: riverpod_annotation
+name: kyc_riverpod_annotation
 description: A package exposing annotations for riverpod_generator
 version: 3.0.1
 repository: https://github.com/rrousselGit/riverpod

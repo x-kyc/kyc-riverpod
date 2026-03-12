@@ -1,4 +1,4 @@
-name: hooks_riverpod
+name: kyc_hooks_riverpod
 description: >
   A reactive caching and data-binding framework.
   Riverpod makes working with asynchronous code a breeze.
